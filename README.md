@@ -4,6 +4,10 @@
 **hide6974/hide6974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Top Languages Card
+https://github-readme-stats.vercel.app/api?username=hide6974&count_private=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=hide6974
+https://github-readme-stats.vercel.app/api?username=hide6974
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
