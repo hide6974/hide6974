@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=hide6974&count_private=true
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hide6974&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=hide6974
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hide6974)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api?username=hide6974
+
 
 <!--
 **hide6974/hide6974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
